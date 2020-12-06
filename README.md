@@ -1,5 +1,5 @@
 # Welcome to Hau Tr repository
-This project shows how to conduct an automation testing task by using a Cucumber of the Software Testing (SWT301) course at FPT University, HCM Campus
+This project shows how to conduct an automation testing task by using the Automation Testing Tool - Cucumber, a part of the Software Testing (SWT301) course at FPT University, HCM Campus
 
 ## Description:
 In this project, I am going to check the total price of the shopping cart after adding some items to it.
