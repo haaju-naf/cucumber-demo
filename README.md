@@ -17,7 +17,7 @@ In this project, I am going to check the total price of the shopping cart after 
 * JUnit
 
 ## Connect me via
-> [GitHub](https://github.com/hautr33)
-> [Facebook](https://www.facebook.com/hauttse130205)
+1. [GitHub](https://github.com/hautr33)
+2. [Facebook](https://www.facebook.com/hauttse130205)
 
 #### © 2020 by hautr33 | FPT University HCM Campus
